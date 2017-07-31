@@ -9,5 +9,6 @@ Homepage: http://www.deepin.org
 Package: blur-effect
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: image blurring utility as a deepin backend tool.
+ Off-screen image blurring utility using OpenGL ES 3.0.
+ As a component in DDE.
